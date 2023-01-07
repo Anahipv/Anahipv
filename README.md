@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi \(^-^)/ I'm Anahi
+
+:earth_africa: I'm from Argentina, actually living in Barcelona \
+:memo: I'm currently learning programming and data science \
+:seedling: I have a curious personallity \
+:sparkles: Spanish | English
+
+
 
 <!--
 **Anahipv/Anahipv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
