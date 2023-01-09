@@ -1,4 +1,4 @@
-### Hi \(^-^)/ I'm Anahi
+### Hi  \\(^-^)/  I'm Anahi
 
 :earth_africa: I'm from Argentina, actually living in Barcelona \
 :memo: I'm currently learning programming and data science \
